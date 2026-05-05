@@ -1,11 +1,24 @@
 # Agentic Developer Portal
 
-## Features
-- Repo discovery
-- AI task execution
+## Overview
+A React + TypeScript app demonstrating an AI-native developer workflow:
+- Repository discovery
+- AI agent task execution
 - Real-time logs
-- Wireframes UX tab
+- UX wireframes tab
 
-## Run
+## Features
+- 🔍 Search repositories
+- 🤖 Run AI tasks (PR, refactor, test, scan)
+- 📡 Streaming execution logs
+- 🎨 Wireframes tab explaining UX decisions
+
+## Tech Stack
+- React
+- TypeScript
+- Vite
+
+## Run Locally
+```bash
 npm install
 npm run dev
